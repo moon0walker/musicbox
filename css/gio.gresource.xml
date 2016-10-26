@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource>
+    <file compressed="true">/home/user/musicbox/css/musicbox.css</file>
+    <file compressed="true">/home/user/musicbox/css/preferences.css</file>
+  </gresource>
+</gresources>

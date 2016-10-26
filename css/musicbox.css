@@ -1,0 +1,150 @@
+#MainWindow {
+	background-color: black;
+	color: white;
+	font-weight: bold;
+	/*font-family: Impact;*/
+	font-family: Arial Black;
+}
+
+#FramePlayerShow {
+	background-color: black;
+}
+
+#FramePlayerHide {
+	background-color: transparent;
+}
+
+#MainFrame_Red {
+	background-color: #990000;
+	border-radius: 15px;
+	border-width: 0;
+	padding-left: 10px;
+	padding-right: 10px;
+	/*text-shadow: white 0 0 3px, white 0 0 1px;*/
+}
+
+#MainFrame_Blue {
+	background-color: #006699;
+	border-radius: 15px;
+	border-width: 0;
+	padding-left: 10px;
+	padding-right: 10px;
+	/*text-shadow: white 0 0 3px, white 0 0 1px;*/
+}
+
+#MainFrame_Green {
+	background-color: #009933;
+	border-radius: 15px;
+	border-width: 0;
+	padding-left: 10px;
+	padding-right: 10px;
+	/*text-shadow: white 0 0 3px, white 0 0 1px;*/
+}
+
+#MainFrame_Silver {
+	background: rgb(245,246,246);
+	background: linear-gradient(
+		to bottom,
+		rgba(219,219,219,1) 0%,
+		rgba(219,220,226,1) 21%,
+		rgba(153,147,158,1) 49%, 
+		rgba(221,223,227,1) 90%,
+		rgba(219,219,219,1) 100%);
+	border-radius: 15px;
+	border-width: 0;
+	padding-left: 10px;
+	padding-right: 10px;
+	/*text-shadow: white 0 0 3px, white 0 0 1px;*/
+}
+
+GtkFrame {
+	background: rgba(25, 25, 25, 0.5);
+	border-radius: 15px;
+	border-width: 0px;
+	font-size: 20px;
+}
+
+GtkTreeView {
+	color: rgba(255, 255, 255, 0.7);
+	background-color: transparent;
+	font-size: 16px;
+}
+
+GtkTreeView row:selected {
+	color: white;
+	background-color:black;
+	text-shadow:white 0 0 2px;
+}
+
+GtkLabel {
+	font-size: 22px;
+	/*text-shadow:white 0 0 4px, white 0 0 1px;*/
+}
+
+#OrderedSong {
+	font-size: 12px;
+	color: white;
+	text-shadow:white 1px 0 1px;
+}
+
+#OrderedSong row:selected {
+	background-color:transparent;
+}
+
+#OrderButton {
+	background-color: black;
+	border-color: black;
+	border-width: 6px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#CreditLeftValue {
+	font-size: 20px;
+	color: rgb(230, 100, 0);
+	text-shadow: -1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow;
+}
+
+#CreditLeft {
+	font-size: 12px;
+	padding: 10px;
+	padding-top: 20px;
+	text-shadow:white 1px 0 1px;
+}
+
+#CostLabels {
+	font-size: 16px;
+	color: rgba(0, 0, 0, 0.6);
+	/*text-shadow:black 2px 0 10px;*/
+}
+
+#CostValueLabels  {
+	color: black;
+}
+
+#RingPanel_Red {
+	border-radius: 15px;
+	background-color: rgba(25,25,25,0.5);
+}
+
+#RingPanel_Artist {
+	padding-right: 20px;
+}
+
+#RingPanel_Songs {
+	padding-left: 20px;
+}
+
+#BannerBar {
+	background-color: rgba(25,25,25,0.5);
+	border-radius: 15px;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+}
+
+#ImgFrame {
+	background-color: black;
+	border-radius: 10%;
+}

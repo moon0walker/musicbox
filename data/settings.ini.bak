@@ -1,0 +1,21 @@
+[preferences]
+media_path = S: /home/user/Music
+order = S: 1
+karaoke_order = S: 2
+currency = S: EUR
+language = S: pl_PL
+demo_folders = S: all_library
+changed = B: False
+volumediff = S: 20
+theme = U: Red
+banner = S: 
+
+[statistic]
+first_start = B: True
+orders = I: 0
+credit = I: 0
+start_date = S: 2016.07.25
+
+[equalizer]
+capture = F: 80.0
+

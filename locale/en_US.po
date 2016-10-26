@@ -1,0 +1,225 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2016 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# user <user@debian>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-26 16:49-0400\n"
+"PO-Revision-Date: 2016-06-26 16:50-0400\n"
+"Last-Translator: user <user@debian>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: preferences.py:57 update_tmp/preferences.py:57
+msgid "All orders:"
+msgstr "All orders:"
+
+#: preferences.py:60 update_tmp/preferences.py:60
+msgid "Date started:"
+msgstr "Date started:"
+
+#: frame/infobar.py:54
+msgid "ORDERED"
+msgstr "ORDERED"
+
+#: frame/infobar.py:96 frame/songbar.py:238
+msgid "ORDER"
+msgstr "ORDER"
+
+#: frame/infobar.py:107
+msgid "PAID"
+msgstr "PAID"
+
+#: frame/songbar.py:156
+msgid "ARTISTS"
+msgstr "ARTISTS"
+
+#: frame/songbar.py:184
+msgid "SONGS"
+msgstr "SONGS"
+
+#: frame/songbar.py:238
+msgid "COST"
+msgstr "COST"
+
+#: tools/settings.py:289
+msgid "An Unknown type of setting was found!"
+msgstr "An Unknown type of setting was found!"
+
+#: update_tmp/preferences.py:95 widgets/__init__.py:15 widgets/__init__.py:16
+#: widgets/values.py:133
+msgid "Remove"
+msgstr "Remove"
+
+#: widgets/control_panel.py:11
+msgid "Control Panel"
+msgstr "Control Panel"
+
+#: widgets/files.py:45
+msgid "Insert media storage musicbox!"
+msgstr "Insert media storage musicbox!"
+
+#: widgets/files.py:47
+msgid "Cant find path!"
+msgstr "Cant find path!"
+
+#: widgets/files.py:98 widgets/__init__.py:18 widgets/values.py:107
+#: widgets/values.py:119 widgets/values.py:132 widgets/values.py:139
+msgid "Exit"
+msgstr "Exit"
+
+#: widgets/files.py:107
+msgid "Add file"
+msgstr "Add file"
+
+#: widgets/files.py:131 widgets/files.py:145
+msgid "Selected"
+msgstr "Selected"
+
+#: widgets/files.py:133 widgets/files.py:147 widgets/values.py:119
+#: widgets/values.py:132
+msgid "Add folder"
+msgstr "Add folder"
+
+#: widgets/files.py:158 widgets/files.py:175
+msgid "Wait..."
+msgstr "Wait..."
+
+#: widgets/files.py:166 widgets/values.py:139
+msgid "Remove folder"
+msgstr "Remove folder"
+
+#: widgets/files.py:478 widgets/files.py:516
+msgid "(Press X)"
+msgstr "(Press X)"
+
+#: widgets/files.py:515
+msgid "Done"
+msgstr "Done"
+
+#: widgets/__init__.py:7
+msgid "Order cost"
+msgstr "Order cost"
+
+#: widgets/__init__.py:8
+msgid "Karaoke order cost"
+msgstr "Karaoke order cost"
+
+#: widgets/__init__.py:8 widgets/__init__.py:11
+msgid "Disable"
+msgstr "Disable"
+
+#: widgets/__init__.py:9
+msgid "Choose currency"
+msgstr "Choose currency"
+
+#: widgets/__init__.py:10
+msgid "Choose your language"
+msgstr "Choose your language"
+
+#: widgets/__init__.py:11
+msgid "Folder of the demonstration mode"
+msgstr "Folder of the demonstration mode"
+
+#: widgets/__init__.py:11 widgets/__init__.py:15
+msgid "Select Path"
+msgstr "Select Path"
+
+#: widgets/__init__.py:11
+msgid "All library"
+msgstr "All library"
+
+#: widgets/__init__.py:12
+msgid "The volume difference between demo and ordered compositions"
+msgstr "The volume difference between demo and ordered compositions"
+
+#: widgets/__init__.py:13
+msgid "The color scheme of the interface"
+msgstr "The color scheme of the interface"
+
+#: widgets/__init__.py:13
+msgid "Red"
+msgstr "Red"
+
+#: widgets/__init__.py:13
+msgid "Blue"
+msgstr "Blue"
+
+#: widgets/__init__.py:13
+msgid "Green"
+msgstr "Green"
+
+#: widgets/__init__.py:13
+msgid "Silver"
+msgstr "Silver"
+
+#: widgets/__init__.py:14
+msgid "Equalizer"
+msgstr "Equalizer"
+
+#: widgets/__init__.py:15
+msgid "Add / remove banner"
+msgstr "Add / remove banner"
+
+#: widgets/__init__.py:16
+msgid "Add / delete media files"
+msgstr "Add / delete media files"
+
+#: widgets/__init__.py:16 widgets/values.py:125
+msgid "Add"
+msgstr "Add"
+
+#: widgets/__init__.py:17
+msgid "Update program"
+msgstr "Update program"
+
+#: widgets/__init__.py:18
+msgid "With saving"
+msgstr "With saving"
+
+#: widgets/__init__.py:18
+msgid "Without saving"
+msgstr "Without saving"
+
+#: widgets/values.py:14 widgets/values.py:69
+msgid "Value"
+msgstr "Value"
+
+#: widgets/values.py:100 widgets/values.py:112
+msgid "Select path"
+msgstr "Select path"
+
+#: widgets/values.py:107
+msgid "Open folder/Add file"
+msgstr "Open folder/Add file"
+
+#: widgets/values.py:172 widgets/values.py:174
+msgid "Insert media storage!"
+msgstr "Insert media storage!"
+
+#: widgets/values.py:132 widgets/values.py:139
+msgid "Exit with saving"
+msgstr "Exit with saving"
+
+#: widgets/values.py:132 widgets/values.py:139
+msgid "Exit without saving"
+msgstr "Exit without saving"
+
+#: widgets/values.py:167 widgets/__init__.py:17
+msgid "Show"
+msgstr "Show"
+
+#: widgets/values.py:174 widgets/__init__.py:17
+msgid "Clear"
+msgstr "Clear"
+
+#: widgets/values.py:176
+msgid "Statistics is cleared"
+msgstr "Statistics is cleared"

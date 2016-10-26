@@ -1,0 +1,226 @@
+# Russian translations for PACKAGE package.
+# Copyright (C) 2016 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# user <user@debian>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-26 16:49-0400\n"
+"PO-Revision-Date: 2016-06-26 16:50-0400\n"
+"Last-Translator: user <user@debian>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 16bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: preferences.py:57 update_tmp/preferences.py:57
+msgid "All orders:"
+msgstr "Все заказы:"
+
+#: preferences.py:60 update_tmp/preferences.py:60
+msgid "Date started:"
+msgstr "Дата первого запуска:"
+
+#: frame/infobar.py:54
+msgid "ORDERED"
+msgstr "ЗАКАЗАНЫЕ ТРЕКИ"
+
+#: frame/infobar.py:96 frame/songbar.py:238
+msgid "ORDER"
+msgstr "ЗАКАЗАТЬ"
+
+#: frame/infobar.py:107
+msgid "PAID"
+msgstr "ПРОПЛАЧЕНО"
+
+#: frame/songbar.py:156
+msgid "ARTISTS"
+msgstr "ИСПОЛНИТЕЛИ"
+
+#: frame/songbar.py:184
+msgid "SONGS"
+msgstr "ТРЕКИ"
+
+#: frame/songbar.py:238
+msgid "COST"
+msgstr "СТОИМОСТЬ"
+
+#: tools/settings.py:289
+msgid "An Unknown type of setting was found!"
+msgstr ""
+
+#: update_tmp/preferences.py:95 widgets/__init__.py:15 widgets/__init__.py:16
+#: widgets/values.py:133
+msgid "Remove"
+msgstr "Удалить"
+
+#: widgets/control_panel.py:11
+msgid "Control Panel"
+msgstr "Панель управления"
+
+#: widgets/files.py:45
+msgid "Insert media storage musicbox!"
+msgstr "Вставьте сьемный носитель musicbox!"
+
+#: widgets/files.py:47
+msgid "Cant find path!"
+msgstr "Не можно найти путь!"
+
+#: widgets/files.py:98 widgets/__init__.py:18 widgets/values.py:107
+#: widgets/values.py:119 widgets/values.py:132 widgets/values.py:139
+msgid "Exit"
+msgstr "Выход"
+
+#: widgets/files.py:107
+msgid "Add file"
+msgstr "Добавить файл"
+
+#: widgets/files.py:131 widgets/files.py:145
+msgid "Selected"
+msgstr "Выбранно"
+
+#: widgets/files.py:133 widgets/files.py:147 widgets/values.py:119
+#: widgets/values.py:132
+msgid "Add folder"
+msgstr "Добавить папку"
+
+#: widgets/files.py:158 widgets/files.py:175
+msgid "Wait..."
+msgstr "Подождите"
+
+#: widgets/files.py:166 widgets/values.py:139
+msgid "Remove folder"
+msgstr "Удалить папку"
+
+#: widgets/files.py:478 widgets/files.py:516
+msgid "(Press X)"
+msgstr "(Нажмите Х)"
+
+#: widgets/files.py:515
+msgid "Done"
+msgstr "Сделано"
+
+#: widgets/__init__.py:7
+msgid "Order cost"
+msgstr "Стоимость заказа"
+
+#: widgets/__init__.py:8
+msgid "Karaoke order cost"
+msgstr "Стоимость заказа караоке"
+
+#: widgets/__init__.py:8 widgets/__init__.py:11
+msgid "Disable"
+msgstr "Отключить"
+
+#: widgets/__init__.py:9
+msgid "Choose currency"
+msgstr "Валюта"
+
+#: widgets/__init__.py:10
+msgid "Choose your language"
+msgstr "Язык"
+
+#: widgets/__init__.py:11
+msgid "Folder of the demonstration mode"
+msgstr "Папка для композицый демо режима"
+
+#: widgets/__init__.py:11 widgets/__init__.py:15
+msgid "Select Path"
+msgstr "Выберите путь"
+
+#: widgets/__init__.py:11
+msgid "All library"
+msgstr "Вся библиотека"
+
+#: widgets/__init__.py:12
+msgid "The volume difference between demo and ordered compositions"
+msgstr "Разница громкости фоновой и заказанной композиций"
+
+#: widgets/__init__.py:13
+msgid "The color scheme of the interface"
+msgstr "Цвет интерфейса"
+
+#: widgets/__init__.py:13
+msgid "Red"
+msgstr "Красный"
+
+#: widgets/__init__.py:13
+msgid "Blue"
+msgstr "Синий"
+
+#: widgets/__init__.py:13
+msgid "Green"
+msgstr "Зеленый"
+
+#: widgets/__init__.py:13
+msgid "Silver"
+msgstr "Серебряный"
+
+#: widgets/__init__.py:14
+msgid "Equalizer"
+msgstr "Эквалайзер"
+
+#: widgets/__init__.py:15
+msgid "Add / remove banner"
+msgstr "Добавить/Удалить баннер"
+
+#: widgets/__init__.py:16
+msgid "Add / delete media files"
+msgstr "Добавить/Удалить медиа файлы"
+
+#: widgets/__init__.py:16 widgets/values.py:125
+msgid "Add"
+msgstr "Добавить"
+
+#: widgets/__init__.py:17
+msgid "Update program"
+msgstr "Обновить программу"
+
+#: widgets/__init__.py:18
+msgid "With saving"
+msgstr "С сохранением"
+
+#: widgets/__init__.py:18
+msgid "Without saving"
+msgstr "Без сохранения"
+
+#: widgets/values.py:14 widgets/values.py:69
+msgid "Value"
+msgstr "Значение"
+
+#: widgets/values.py:100 widgets/values.py:112
+msgid "Select path"
+msgstr "Выберите путь"
+
+#: widgets/values.py:107
+msgid "Open folder/Add file"
+msgstr "Открыть папку/Добавить файл"
+
+#: widgets/values.py:172 widgets/values.py:174
+msgid "Insert media storage!"
+msgstr "Вставьте сьемный носитель!"
+
+#: widgets/values.py:132 widgets/values.py:139
+msgid "Exit with saving"
+msgstr "Выход с сохранением"
+
+#: widgets/values.py:132 widgets/values.py:139
+msgid "Exit without saving"
+msgstr "Выход без сохранения"
+
+#: widgets/values.py:167 widgets/__init__.py:17
+msgid "Show"
+msgstr "Показать"
+
+#: widgets/values.py:174 widgets/__init__.py:17
+msgid "Clear"
+msgstr "Очистить"
+
+#: widgets/values.py:176
+msgid "Statistics is cleared"
+msgstr "Статистика очищена"
